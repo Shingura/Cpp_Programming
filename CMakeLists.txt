@@ -1,0 +1,11 @@
+cmake_minimum_required(VERSION 4.0)
+project(Cpp)
+
+set(CMAKE_CXX_STANDARD 98)
+add_subdirectory(experiment_1)
+add_subdirectory(experiment_2)
+add_subdirectory(experiment_3)
+add_subdirectory(experiment_4)
+add_subdirectory(experiment_5)
+add_subdirectory(experiment_6)
+add_subdirectory(experiment_7)
