@@ -11,5 +11,7 @@ add_subdirectory(experiment_5)
 add_subdirectory(experiment_6)
 add_subdirectory(experiment_7)
 add_subdirectory(experiment_8)
+add_subdirectory(experiment_9)
+add_subdirectory(experiment_10)
 
 add_executable(ex.cpp)
